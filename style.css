@@ -1,0 +1,28 @@
+html {
+    font-family: sans-serif;
+}
+
+body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    color: #fff;
+    height: 90vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(Amsterdam.jpg);
+    background-size: cover;
+    background-position: center;
+    background-position: fixed;
+    background-position: no-repeat;
+}
+
+.lastResult {
+    color: #fff;
+    padding: 3px;
+}
+
+.container{
+    border:solid;
+    background-color: rgba(138, 126, 126, 0.5);
+}
